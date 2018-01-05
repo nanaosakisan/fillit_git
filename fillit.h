@@ -6,13 +6,12 @@
 /*   By: arusso <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/12/14 12:20:47 by arusso            #+#    #+#             */
-/*   Updated: 2017/12/16 17:16:38 by arusso           ###   ########.fr       */
+/*   Updated: 2018/01/05 14:47:42 by iporsenn         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FILLIT_H
 # define FILLIT_H
-# define ERROR_MSG "usage:  ./fillit name_file\n\t./fillit name_file -g\n"
 
 # include "./libft/libft.h"
 # include <sys/types.h>
